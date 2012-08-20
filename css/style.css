@@ -8,20 +8,20 @@ body {
 	margin-bottom: 30px;
 }
 .container p {
-	color: #ddd;
+	color: #000033;
 }
 h1 {
     font-size: 60px;
     line-height: 76px;
-	color: #fff;
+	color: #000;
 }
 h2 {
-	color: #ffcc00;
+	color: #F08080;
  	font-size: 30px;
     line-height: 36px;
 }
 h3 {
-	color: #ccc;
+	color: #F08080;
 }
 hr {
 	border-top: 1px solid #111;
@@ -30,7 +30,7 @@ hr {
 .right-main p {
 	font-size: 15px;
    line-height: 22px;
-	color:#fff;
+	color:#000;
 }
 
 .left-main {
@@ -97,4 +97,9 @@ hr {
 .modal-footer-black p {
 	color: #666;
 	text-align:center;
+}
+.bg-white {
+	background: rgba(255,255,255,0.55);
+	border-radius: 10px;
+	padding: 10px;
 }
